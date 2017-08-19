@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main(){
-  runApp(
+void main() => runApp(
     new Container(
       decoration: new BoxDecoration(color: Colors.blue),
       child: new Center(
@@ -9,4 +8,3 @@ void main(){
       )
     )
   );
-}
