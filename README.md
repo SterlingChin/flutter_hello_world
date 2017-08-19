@@ -1,6 +1,6 @@
 # hello_world
 
-A new Flutter project.
+This is a simple Hello World app created with Angular Dart and Flutter.
 
 ## Getting Started
 
